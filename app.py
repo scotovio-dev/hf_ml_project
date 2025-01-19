@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.linear_model import LinearRegression
-import gradio as gr
+import gradio as gr # type: ignore
 
 # Sample data for training the model
 # X represents [house size (m²), number of rooms, house age]
