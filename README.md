@@ -1,6 +1,6 @@
 ---
 title: hf_ml_project
-emoji: house
+emoji: 🏠
 colorFrom: red
 colorTo: blue
 sdk: gradio
