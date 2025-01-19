@@ -1,10 +1,9 @@
 ---
-title: {{title}}
-emoji: {{emoji}}
-colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: "{{sdkVersion}}"
+title: hf_ml_project
+emoji: house
+colorFrom: red
+colorTo: blue
+sdk: gradio
 app_file: app.py
 pinned: false
 ---
